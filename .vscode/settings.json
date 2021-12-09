@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["vuex"],
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
